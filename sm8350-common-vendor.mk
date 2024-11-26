@@ -214,6 +214,9 @@ PRODUCT_PACKAGES += \
     libdynproc \
     libeffectproxy \
     libldnhncr \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libreverbwrapper \
     libvisualizer \
     vendor.qti.hardware.dsp@1.0 \

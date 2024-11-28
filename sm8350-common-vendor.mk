@@ -206,7 +206,16 @@ PRODUCT_PACKAGES += \
     libvpphcp \
     libvpphvx \
     libvpplibrary \
+    libwebrtc_audio_preprocessing \
     libxml \
+    libaudiopreprocessing \
+    libbundlewrapper \
+    libdownmix \
+    libdynproc \
+    libeffectproxy \
+    libldnhncr \
+    libreverbwrapper \
+    libvisualizer \
     vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.qconfig@1.0 \
     vendor.qti.hardware.vpp@1.1 \

@@ -228,9 +228,6 @@ PRODUCT_PACKAGES += \
     libvpplibrary \
     libxml \
     libhwdap \
-    libqcbassboost \
-    libqcreverb \
-    libqcvirt \
     libswgamedap \
     libswvqe \
     vendor.dolby.hardware.dms@2.0 \
